@@ -9,6 +9,7 @@ package Main;
 /**
  *
  * @author drapek
+ * Wersja testowa programu, użytek na własną odpowiedzialność.
  */
 public class Main {
  
